@@ -1,13 +1,13 @@
 # Perfil de William
 ## Sobre mim
-- Estudante de [Seu Curso]
+- Estudante de DS
 - Aprendendo Git e GitHub
-- Meta: Tornar-me desenvolvedor(a)
+- Meta: Tornar-me desenvolvedor
 ## Habilidades em desenvolvimento
 - [x] Git básico
-- [ ] HTML/CSS
+- [x] HTML/CSS
 - [ ] JavaScript
 ## Contato
 - GitHub: @William-programs
 - E-mail: williamlisboa414@gmail.com
-*Criado em: 09/04/2026*
+
